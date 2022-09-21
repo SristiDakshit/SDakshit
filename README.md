@@ -1,5 +1,5 @@
 ###   Hey there! I'm Sristi Dakshit. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-**CSE PhD student at The University of Texas at Dallas, USA ** :earth_asia:  </br>
+**CSE PhD student at The University of Texas at Dallas, USA** :earth_asia:  </br>
   -:shipit: Areas of interest: **Literally curious about everything that the universe has to offer.** </br>
   -:pushpin: Technical interest: **Artificial Intelligence and Machine Learning.** </br>
   -:mailbox_with_mail: You can reach me at: **sristidakshit@gmail.com** </br>
