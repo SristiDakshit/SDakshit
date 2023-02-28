@@ -2,7 +2,7 @@
 **CS PhD student at The University of Texas at Dallas, USA** :earth_asia:  </br>
   -:shipit: Areas of interest: **Literally curious about everything that the universe has to offer.** </br>
   -:pushpin: Technical interest: **Artificial Intelligence and Machine Learning.** </br>
-  -:mailbox_with_mail: You can reach me at: **sristidakshit@gmail.com** </br>
+  -:mailbox_with_mail: You can reach me at: **dakshitsristi@gmail.com** </br>
   -:alien: Pronouns: **She/Her** :dancers: </br>
   -:sparkles: Super important self fact: **Big time coffee addict. :coffee:**
 
